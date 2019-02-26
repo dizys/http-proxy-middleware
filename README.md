@@ -1,11 +1,5 @@
 # http-proxy-middleware
 
-[![Build Status](https://img.shields.io/travis/chimurai/http-proxy-middleware/master.svg?style=flat-square)](https://travis-ci.org/chimurai/http-proxy-middleware)
-[![Coveralls](https://img.shields.io/coveralls/chimurai/http-proxy-middleware.svg?style=flat-square)](https://coveralls.io/r/chimurai/http-proxy-middleware)
-[![dependency Status](https://img.shields.io/david/chimurai/http-proxy-middleware.svg?style=flat-square)](https://david-dm.org/chimurai/http-proxy-middleware#info=dependencies)
-[![dependency Status](https://snyk.io/test/npm/http-proxy-middleware/badge.svg)](https://snyk.io/test/npm/http-proxy-middleware)
-[![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)](https://github.com/prettier/prettier)
-
 Node.js proxying made simple. Configure proxy middleware with ease for [connect](https://github.com/senchalabs/connect), [express](https://github.com/strongloop/express), [browser-sync](https://github.com/BrowserSync/browser-sync) and [many more](#compatible-servers).
 
 Powered by the popular Nodejitsu [`http-proxy`](https://github.com/nodejitsu/node-http-proxy). [![GitHub stars](https://img.shields.io/github/stars/nodejitsu/node-http-proxy.svg?style=social&label=Star)](https://github.com/nodejitsu/node-http-proxy)
@@ -480,12 +474,8 @@ $ npm test
 $ npm run cover
 ```
 
-## Changelog
-
-- [View changelog](https://github.com/chimurai/http-proxy-middleware/blob/master/CHANGELOG.md)
-
 ## License
 
 The MIT License (MIT)
 
-Copyright (c) 2015-2018 Steven Chim
+Copyright (c) 2019 Dizy

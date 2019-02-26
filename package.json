@@ -3,6 +3,7 @@
   "version": "0.19.3",
   "description": "The one-liner node.js proxy middleware for connect, express and browser-sync",
   "main": "index.js",
+  "types": "index.d.ts",
   "files": [
     "index.js",
     "index.d.ts",

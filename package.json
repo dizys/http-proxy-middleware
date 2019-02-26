@@ -1,6 +1,6 @@
 {
   "name": "http-ws-proxy-middleware",
-  "version": "0.19.3",
+  "version": "0.19.4",
   "description": "The one-liner node.js proxy middleware for connect, express and browser-sync",
   "main": "index.js",
   "types": "index.d.ts",

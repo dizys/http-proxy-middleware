@@ -94,10 +94,7 @@ declare namespace proxy {
     proxyTable?: any
   }
 
-  type Proxy = connect.NextHandleFunction
-  declare namespace Proxy{
-    export function close(): void;
-  }
+  type Proxy = connect.NextHandleFunction & {close(): void}
 }
 
 export = proxy
